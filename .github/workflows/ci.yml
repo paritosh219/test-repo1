@@ -20,4 +20,4 @@ jobs:
 
       - name: Build and Test
         run: mvn clean install
-        working-directory: ./junit-example
+        working-directory: ./junit-example 2
