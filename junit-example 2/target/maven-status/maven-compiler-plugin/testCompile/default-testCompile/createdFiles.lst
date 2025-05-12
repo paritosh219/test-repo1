@@ -1,0 +1,12 @@
+com/capgemini/junit_example/MathUtilsTest$FactorialTests.class
+com/capgemini/junit_example/MathUtilsTest$InterestTests.class
+com/capgemini/junit_example/MathUtilsTest$PrimeTests.class
+com/capgemini/junit_example/MathUtilsTest$EvenTests.class
+com/capgemini/junit_example/StringUtilsTest$AnagramTests.class
+com/capgemini/junit_example/StringUtilsTest$EmailValidationTests.class
+com/capgemini/junit_example/StringUtilsTest$VowelTests.class
+com/capgemini/junit_example/StringUtilsTest.class
+com/capgemini/junit_example/StringUtilsTest$PalindromeTests.class
+com/capgemini/junit_example/StringUtilsTest$ReverseTests.class
+com/capgemini/junit_example/MathUtilsTest.class
+com/capgemini/junit_example/MathUtilsTest$FibonacciTests.class
